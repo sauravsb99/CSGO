@@ -1,8 +1,13 @@
-#CSGO-BHOP
-*Download cheat engine https://www.cheatengine.org/ 
-*Use cheat engine to find the player address and offset 
-*Use the address values to change the value.
+# CSGO-BHOP
 
+## METHOD
 
-##HAZEDUMPER
+* Download cheat engine https://www.cheatengine.org/ 
+* Use cheat engine to find the player address and offset
+* Use the address values to change the value
+
+## HAZEDUMPER
+
 https://github.com/frk1/hazedumper
+
+
