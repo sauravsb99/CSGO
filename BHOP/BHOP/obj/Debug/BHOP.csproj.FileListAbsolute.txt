@@ -1,0 +1,9 @@
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\bin\Debug\BHOP.exe.config
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\bin\Debug\BHOP.exe
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\bin\Debug\BHOP.pdb
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\bin\Debug\VAMemory.dll
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\obj\Debug\BHOP.csprojAssemblyReference.cache
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\obj\Debug\BHOP.csproj.CoreCompileInputs.cache
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\obj\Debug\BHOP.csproj.CopyComplete
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\obj\Debug\BHOP.exe
+C:\Users\PrEdAtOr\Desktop\BHOP\BHOP\obj\Debug\BHOP.pdb
